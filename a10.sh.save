@@ -1,0 +1,7 @@
+read N
+read M
+
+while [ $N -ge 0 ]
+do 
+	for (( i=$M; i>=0; i--))
+		
